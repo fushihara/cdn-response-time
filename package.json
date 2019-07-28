@@ -1,0 +1,28 @@
+{
+  "name": "cdn-response-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/config": "0.0.34",
+    "@types/dateformat": "^3.0.0",
+    "@types/node": "^12.6.8",
+    "@types/request": "^2.48.2",
+    "@types/sprintf-js": "^1.1.2",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@types/node-cron": "^2.0.2",
+    "config": "^3.2.2",
+    "dateformat": "^3.0.3",
+    "node-cron": "^2.0.3",
+    "request": "^2.88.0",
+    "sprintf-js": "^1.1.2"
+  }
+}

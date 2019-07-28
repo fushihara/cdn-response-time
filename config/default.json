@@ -1,0 +1,11 @@
+{
+  "urlList": [
+    "https://unpkg.com/vue@^2.6.10",
+    "https://unpkg.com/@fushihara/vue-online-document-list@^2.0.0",
+    "https://unpkg.com/@fushihara/vue-todoist-list@^1.0.0",
+    "https://cdn.jsdelivr.net/npm/vue@^2.6.10",
+    "https://cdn.jsdelivr.net/npm/@fushihara/vue-online-document-list@^2.0.0",
+    "https://cdn.jsdelivr.net/npm/@fushihara/vue-todoist-list@^1.0.0"
+  ],
+  "log": "./log/log.csv"
+}

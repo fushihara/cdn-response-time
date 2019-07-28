@@ -1,0 +1,4 @@
+{
+  "name": "cdn-response-time",
+  "script": "./dist/index.js"
+}

@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ESNEXT",
+    "module": "umd",
+    "lib": [], //nodeで動かす時、domの型定義は不要なので"esnext"とだけ指定する。
+    "sourceMap": true,
+    "outDir": "./dist/",
+    "rootDir": "./src/",
+    "charset": "utf8",
+    "newLine": "LF",
+    "typeRoots": [
+      "node_modules/@types",
+      "types/"
+    ],
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.js",
+    "types/*.d.ts",
+  ],
+  "exclude": [
+    "node_modules",
+  ]
+}
